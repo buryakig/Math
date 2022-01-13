@@ -350,12 +350,10 @@ MigrationBackup/
 .ionide/
 
 # Sandbox files
-main.cpp
+Math/math/main.cpp
 
 # Custom unwanted
 *.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-Math/math/main.cpp
-Math/math/main.cpp
