@@ -352,7 +352,7 @@ MigrationBackup/
 # Sandbox files
 Math/math/main.cpp
 
-# Custom unwanted
+# Custom VS unwanted
 *.sln
 *.vcxproj
 *.vcxproj.filters
